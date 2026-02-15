@@ -6,9 +6,9 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
-		<meta name="description" content="YahYa Car Rental">
+		<meta name="description" content="Car Rental">
 		<meta name="author" content="JAIRI IDRISS">
-		<title>YahYa Car Rental</title>
+		<title>Car Rental</title>
 
 		<!-- EXTERNAL STYLE LINKS -->
 

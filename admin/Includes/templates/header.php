@@ -36,7 +36,7 @@
 					<div class="sidebar-brand-icon rotate-n-15">
 			  			<i class="bs bs-scissors-1"></i>
 					</div>
-					<div class="sidebar-brand-text mx-3">YahYa Car Rental</div>
+					<div class="sidebar-brand-text mx-3">Car Rental NU</div>
 		  		</a>
 
 		  		<!-- Divider -->
